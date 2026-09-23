@@ -1,17 +1,14 @@
 # Mi Proyecto Integrador
-
-![build](https://img.shields.io/badge/build-passing-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-blue)
-![version](https://img.shields.io/badge/version-1.0.0-orange)
+![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-MIT-blue) ![version](https://img.shields.io/badge/version-1.0.0-orange)
 
 Este proyecto es una aplicación desarrollada para el curso de Diseño de Interfaces de Programación Avanzado.
 
 ## Tabla de contenidos
-- [Tecnologías](#tecnologías)
-- [Estado del proyecto](#estado-del-proyecto)
+- [Instalación](#instalación)
+- [Uso](#uso)
 - [Arquitectura](#arquitectura)
-- [Capturas](#capturas)
 - [Contribuidores](#contribuidores)
+
 
 ## Tecnologías
 
@@ -24,7 +21,7 @@ Este proyecto es una aplicación desarrollada para el curso de Diseño de Interf
 ## Estado del proyecto
 
 - [x] Autenticación de usuarios
-- [x] CRUD vvvde tareas
+- [x] CRUD de tareas
 - [ ] Notificaciones en tiempo real
 - [ ] Despliegue en producción
 
