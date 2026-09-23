@@ -24,7 +24,7 @@ Este proyecto es una aplicación desarrollada para el curso de Diseño de Interf
 ## Estado del proyecto
 
 - [x] Autenticación de usuarios
-- [x] CRUD de tareas
+- [x] CRUD vvvde tareas
 - [ ] Notificaciones en tiempo real
 - [ ] Despliegue en producción
 
@@ -32,14 +32,14 @@ Este proyecto es una aplicación desarrollada para el curso de Diseño de Interf
 
 ```mermaid
 flowchart LR
-  Cliente -->|HTTPS| API
-  API -->|SQL| BaseDeDatos
-  API -->|JWT| ServicioAuth
-  ```
+Cliente -->|HTTPS| API
+API -->|SQL| BaseDeDatos
+API -->|JWT| ServicioAuth
+```
 ## Capturas
 
-![Vista principal](assets/captura-principal.png)
+![Vista principal](assets/captura-principal.webp)
 
 ## Contribuidores
 
-- [@tu-usuario](https://github.com/tu-usuario) — Desarrollo y documentación
+- [@VASQUEZ](https://github.com/VASQUEZ) — Desarrollo y documentación
